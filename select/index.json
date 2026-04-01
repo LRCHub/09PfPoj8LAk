@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sell a Friend",
+  "base_artist": "Azari",
+  "createdAt": "2026-04-01T12:22:52.409992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sell a Friend",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/01_Sell_a_Friend_Azari.lrc"
+    }
+  ]
+}
